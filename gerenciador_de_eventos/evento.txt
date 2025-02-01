@@ -1,0 +1,3 @@
+qqq|w|a|
+Palestra 1|Presencial|Auditorio A|
+Palestra 2|Online|Google Meet|
